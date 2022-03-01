@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/aryazakaria01/Phoenix-Userbot/tree/Phoenix-Userbot"><img src="https://telegra.ph/file/83d28616efc046ba6cc9b.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/hackerworldyt/Phoenix-Userbot/tree/Phoenix-Userbot"><img src="https://telegra.ph/file/83d28616efc046ba6cc9b.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
@@ -85,7 +85,7 @@
 
 ## <p align="center"> DEPLOY ⚡Phoenix-Userbot⚡</p>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Faryazakaria01%2FPhoenix-Userbot%2Ftree%2FPhoenix-Userbot"><img src="https://img.shields.io/badge/Don't%20Click%20Bro%20,%20Will be Ban-Purple?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fhackerworldyt%2FPhoenix-Userbot%2Ftree%2FPhoenix-Userbot"><img src="https://img.shields.io/badge/Don't%20Click%20Bro%20,%20Will be Ban-Purple?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
 </p>
